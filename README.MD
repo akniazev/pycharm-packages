@@ -11,5 +11,5 @@ Is it clear when the package is installed?
 - Delete package `numpy`
 - You want to learn more about the package `Flask`, find its description and access documentation. 
 How would you do it?
-- Install package directly from VCS using this link `<link>`
+- Install package directly from VCS using this link `https://github.com/python-attrs/attrs`
 - Can you modify `Python Packages` tool window location in PyCharm? How would you do it?
