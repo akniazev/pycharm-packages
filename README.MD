@@ -1,5 +1,6 @@
 - Open project in PyCharm
-  - ![image](./)
+  - Click `OK` to create a virtual environment and setup the project
+  ![image](./img/venv.png)
 - Check if the package `numpy` is installed on the interpreter.
 If so, what is the installed version?
 - Find out what packages are available to be installed
